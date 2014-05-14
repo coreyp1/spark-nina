@@ -9,3 +9,7 @@ You'll need Eclipse, IvyDE (http://ant.apache.org/ivy/ivyde/history/latest-miles
 It's best to just get these from Eclipse Kepler Marketplace.
 
 Run Ant Build and start working.
+
+Add Scala Nature (Right Click on project, Scala, Add Scala Nature)
+
+Add IvyDE to buildpath in eclipse (cf, Right click on project, Build Path, Add Library, IvyDE Managed Library)
